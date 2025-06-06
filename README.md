@@ -10,18 +10,6 @@ MyMarket is a Java-based desktop application for managing a simple marketplace. 
 - Data persistence using text files
 - Algorithms for searching, filtering, and managing marketplace data
 
-## Screenshots
-### Login/Register GUI
-![Login/Register GUI](Screenshot%202025-06-06%20173138.png)
-
-### Product Search and Listing
-![Product Search and Listing](Screenshot%202025-06-06%20173232.png)
-
-### Add to Cart Dialog
-![Add to Cart Dialog](Screenshot%202025-06-06%20173316.png)
-
-### Cart View
-![Cart View](Screenshot%202025-06-06%20173354.png)
 
 ## How to Run
 1. Ensure you have Java (JDK 8 or later) installed.
