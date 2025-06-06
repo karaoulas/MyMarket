@@ -1,16 +1,27 @@
 # MyMarket
 
-MyMarket is a Java-based desktop application for managing a simple marketplace. It features user authentication (login/register), product management, and order processing, with a graphical user interface (GUI).
+MyMarket is a Java-based desktop application for managing a simple marketplace. It features user authentication (login/register), product management, order processing, and includes several algorithms for data management and processing, all with a graphical user interface (GUI).
 
 ## Features
-- User login and registration (see screenshot below)
+- User login and registration
 - Admin and customer roles
 - Product and category management
 - Order creation and management
 - Data persistence using text files
+- Algorithms for searching, filtering, and managing marketplace data
 
+## Screenshots
 ### Login/Register GUI
-![Login/Register GUI](../mymarket-4165-3747/Screenshot%202025-06-06%20173138.png)
+![Login/Register GUI](Screenshot%202025-06-06%20173138.png)
+
+### Product Search and Listing
+![Product Search and Listing](Screenshot%202025-06-06%20173232.png)
+
+### Add to Cart Dialog
+![Add to Cart Dialog](Screenshot%202025-06-06%20173316.png)
+
+### Cart View
+![Cart View](Screenshot%202025-06-06%20173354.png)
 
 ## How to Run
 1. Ensure you have Java (JDK 8 or later) installed.
@@ -23,18 +34,6 @@ MyMarket is a Java-based desktop application for managing a simple marketplace. 
    java -cp bin Main
    ```
 
-## Folder Structure
-```
-c:/Users/Mike/MyMarket/MyMarket/
-  src/           # Java source code
-    api/         # Core logic (User, Product, Order, etc.)
-    gui/         # GUI classes (LoginFrame, RegisterFrame, etc.)
-  lib/           # External libraries (JUnit, Hamcrest)
-  test/          # Unit tests
-  users.txt      # User data
-  products.txt   # Product data
-  categories.txt # Category data
-```
 
 ## Dependencies
 - Java JDK 8 or later
@@ -42,7 +41,4 @@ c:/Users/Mike/MyMarket/MyMarket/
 - Hamcrest Core 1.3 (for testing)
 
 ## Authors
-- Mike (and contributors)
-
----
-Feel free to contribute or open issues for suggestions and bug reports!
+- Mike 
