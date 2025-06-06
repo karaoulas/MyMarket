@@ -30,3 +30,4 @@ MyMarket is a Java-based desktop application for managing a simple marketplace. 
 
 ## Authors
 - Mike 
+- Chriskal
